@@ -60,6 +60,7 @@ h5
   color: white;
   margin-left: 250px;
 }
+
 p
 {
 font-family: 'IBM Plex Mono', monospace 400;
@@ -74,7 +75,7 @@ color: #00FF00;
 p2
 {
   font-family: 'IBM Plex Sans', monospace;
-  font-size: 25px;
+  font-size: 20px;
   text-align: justify;
   margin-left: 100px;
   Margin right: 100px;
